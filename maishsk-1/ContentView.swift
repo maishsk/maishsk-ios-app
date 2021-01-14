@@ -1,6 +1,5 @@
 import SwiftUI
 
-
 // singleton object to store user data
 class UserData : ObservableObject {
     private init() {}
